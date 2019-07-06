@@ -17,14 +17,14 @@
            email_id<br> 
            <input type="text" name="username" class="username"><br><br>
            Password<br>
-           <input type="text" name="username" class="username"><br><br>
+           <input type="password" name="username" class="username"><br><br>
            Confirm Password<br> 
-           <input type="text" name="username" class="username"><br><br>
+           <input type="password" name="username" class="username"><br><br>
            dob<br>
            <input type="text" name="username" class="username"><br><br>
            Contactnumber<br> 
            <input type="text" name="username" class="username"><br><br>
-           <br><input type="submit" name="submit" value="submit"><br>
+           <br><input type="button" name="submit" value="submit"><br>
         </div>
 </form>
 </div>
